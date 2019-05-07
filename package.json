@@ -1,0 +1,22 @@
+{
+  "name": "it-multistream-select",
+  "version": "0.0.0",
+  "description": "JavaScript implementation of multistream-select",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/it-multistream-select.git"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/it-multistream-select/issues"
+  },
+  "homepage": "https://github.com/alanshaw/it-multistream-select#readme",
+  "dependencies": {
+    "it-length-prefixed": "^1.0.0"
+  }
+}
